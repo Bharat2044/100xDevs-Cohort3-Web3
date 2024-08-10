@@ -24,7 +24,7 @@ function asciiToBytes(asciiString) {
 }
 
 // Example usage:
-// Convert the ASCII string "Hello" to a Uint8Array
+// declare a string "Hello"
 const ascii = "Hello";
 
 // Call the function to convert the ASCII string to a Uint8Array
