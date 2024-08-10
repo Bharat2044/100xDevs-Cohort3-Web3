@@ -25,7 +25,7 @@ git clone https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops.git
   - 📝 [Assignment](./Week%2001%20-%20Orientation/1.1%20-%20Orientation%20Web3/1.1%20-%20Orientation%20Web3%20Assignment.md)
   - 🖥️ [Assignment Solution](./Week%2001%20-%20Orientation/1.1%20-%20Orientation%20Web3/Assignment%20Solution/)
 
-### 📚 [**Week 02 - Public Key Cryptography**](./Week%2001%20-%20Orientation/)
+### 📚 [**Week 02 - Public Key Cryptography**](./Week%2002%20-%20Public%20Key%20Cryptography/)
 
 - 💻 [**2.1 - Public Key Cryptography**](./Week%2002%20-%20Public%20Key%20Cryptography/2.1%20-%20Public%20Key%20Cryptography/)
 
